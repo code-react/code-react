@@ -1,130 +1,31 @@
-# Hi there, I'm Naushad Alam! 👋
+### Hi there 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Full+Stack+Engineer;React+%26+Node.js+Expert;Building+Amazing+Web+Apps" alt="Typing SVG" />
-</div>
+<h1 align="center">Hi 👋, I'm NAUSHAD ALAM</h1>
+<h3 align="center">I am a MERN Stack developer from India</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=code-react&label=Profile%20views&color=3b82f6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/code-react?label=Followers&style=for-the-badge&color=3b82f6" alt="GitHub Followers" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=code-react&label=Profile%20views&color=0e75b6&style=flat" alt="code-react" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-react" alt="code-react" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/naushadmonitor" target="blank"><img src="https://img.shields.io/twitter/follow/naushadmonitor?logo=twitter&style=for-the-badge" alt="naushadmonitor" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/naushadmonitor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naushadmonitor" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/naushad-alam-7a3904195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/naushad-alam-7a3904195/" height="30" width="40" /></a>
+<a href="https://fb.com/naushadalam2040" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="naushadalam2040" height="30" width="40" /></a>
+<a href="https://instagram.com/naushad_monitor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naushad_monitor" height="30" width="40" /></a>
 </p>
 
-## 🚀 About Me
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-3.svg" alt="aws" width="40" height="40"/> </a>
+<a href="https://docs.sonarsource.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/545988?s=48&v=4" alt="sonarqube" width="40" height="40"/> </a>
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="jenkins" width="40" height="40"/> </a></p>
 
-I'm a passionate **MERN Stack Developer** from India with a love for creating innovative web applications. I specialize in building scalable, user-friendly solutions using modern technologies and best practices.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=code-react&show_icons=true&locale=en&layout=compact" alt="code-react" /></p>
 
-- 🔭 Currently working on **full-stack web applications**
-- 🌱 Learning **advanced React patterns** and **cloud technologies**
-- 👯 Looking to collaborate on **open source projects**
-- 💬 Ask me about **React, Node.js, MongoDB, JavaScript**
-- 📫 Reach me at: **naushad@example.com**
-- ⚡ Fun fact: **I love solving complex problems with elegant code**
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=code-react&show_icons=true&locale=en" alt="code-react" /></p>
 
-## 🛠️ Tech Stack
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code-react&" alt="code-react" /></p>
 
-<div align="center">
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools & Technologies
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=code-react&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-react&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-react&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=code-react&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=code-react&theme=tokyo-night&bg_color=0D1117&hide_border=true" alt="Contribution Graph" />
-</div>
-
-## 🎯 Current Focus
-
-```javascript
-const naushad = {
-    currentFocus: "Building scalable web applications",
-    technologies: ["React", "Node.js", "MongoDB", "AWS"],
-    architecture: ["Microservices", "RESTful APIs", "MVC"],
-    currentlyLearning: ["TypeScript", "GraphQL", "Kubernetes"],
-    askMeAbout: ["Web Development", "MERN Stack", "System Design"],
-    funFact: "I debug with console.log and I'm not ashamed! 😄"
-};
-```
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/naushadmonitor)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naushad-alam-7a3904195/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/naushadalam2040)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/naushad_monitor)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naushad@example.com)
-
-</div>
-
-## 💼 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| 🚀 **E-Commerce Platform** | Full-stack e-commerce solution with payment integration | React, Node.js, MongoDB, Stripe | [Demo](#) \| [Code](#) |
-| 📱 **Social Media App** | Real-time social platform with chat functionality | React, Socket.io, Express, MongoDB | [Demo](#) \| [Code](#) |
-| 🎯 **Task Management Tool** | Collaborative project management application | React, Node.js, PostgreSQL, AWS | [Demo](#) \| [Code](#) |
-
-</div>
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Building Scalable React Applications](https://example.com/blog/scalable-react)
-- [Node.js Best Practices for Production](https://example.com/blog/nodejs-production)
-- [MongoDB Performance Optimization Tips](https://example.com/blog/mongodb-optimization)
-<!-- BLOG-POST-LIST:END -->
-
-## 🎵 Spotify Playing
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Playing" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=ffffff" alt="Footer" />
-</div>
-
-<div align="center">
-  <sub>💙 Made with love and lots of ☕</sub>
-</div>
