@@ -20,7 +20,7 @@ I'm a passionate **MERN Stack Developer** from India 🇮🇳 with a love for cr
 - 🌱 Learning **advanced React patterns** and **cloud technologies**
 - 👯 Looking to collaborate on **open source projects**
 - 💬 Ask me about **React, Node.js, MongoDB, JavaScript**
-- 📫 Reach me at: **naushad@example.com**
+- 📫 Reach me at: **naushadalam2040@gmail.com**
 - ⚡ Fun fact: **I love solving complex problems with elegant code**
 
 ## 🛠️ Tech Stack
