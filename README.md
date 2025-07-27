@@ -434,14 +434,6 @@ DevOps       1 hr 30 mins    █░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <!-- Skills Proficiency -->
-## 📈 Skills Proficiency
-
-![Frontend](https://img.shields.io/badge/Frontend-95%25-blue)
-![Backend](https://img.shields.io/badge/Backend-90%25-green)
-![Database](https://img.shields.io/badge/Database-85%25-brightgreen)
-![DevOps](https://img.shields.io/badge/DevOps-80%25-orange)
-![System Design](https://img.shields.io/badge/System--Design-75%25-lightgrey)
-
 <div align="center">
   <h2>📈 Skills Proficiency</h2>
   <img src="https://img.shields.io/badge/Frontend-95%25-blue" alt="Frontend" />
