@@ -442,6 +442,14 @@ DevOps       1 hr 30 mins    █░░░░░░░░░░░░░░░░
 ![DevOps](https://img.shields.io/badge/DevOps-80%25-orange)
 ![System Design](https://img.shields.io/badge/System--Design-75%25-lightgrey)
 
+<div align="center">
+  <h2>📈 Skills Proficiency</h2>
+  <img src="https://img.shields.io/badge/Frontend-95%25-blue" alt="Frontend" />
+  <img src="https://img.shields.io/badge/Backend-90%25-green" alt="Backend" />
+  <img src="https://img.shields.io/badge/Database-85%25-brightgreen" alt="Database" />
+  <img src="https://img.shields.io/badge/DevOps-80%25-orange" alt="DevOps" />
+  <img src="https://img.shields.io/badge/System--Design-75%25-lightgrey" alt="System Design" />
+</div>
 
 <!-- Random Dev Quote -->
 <div align="center">
