@@ -436,34 +436,13 @@ DevOps       1 hr 30 mins    █░░░░░░░░░░░░░░░░
 <!-- Skills Proficiency -->
 <div align="center">
   <h2>📈 Skills Proficiency</h2>
-  ![Frontend](https://img.shields.io/badge/Frontend-95%25-blue)
+![Frontend](https://img.shields.io/badge/Frontend-95%25-blue)
 ![Backend](https://img.shields.io/badge/Backend-90%25-green)
 ![Database](https://img.shields.io/badge/Database-85%25-brightgreen)
 ![DevOps](https://img.shields.io/badge/DevOps-80%25-orange)
 ![System Design](https://img.shields.io/badge/System--Design-75%25-lightgrey)
 
-  <table>
-    <tr>
-      <td><strong>Frontend Development</strong></td>
-      <td><img src="https://progress-bar.dev/95/?title=Expert&width=200&color=61dafb" alt="Frontend - 95%"/></td>
-    </tr>
-    <tr>
-      <td><strong>Backend Development</strong></td>
-      <td><img src="https://progress-bar.dev/90/?title=Expert&width=200&color=68a063" alt="Backend - 90%"/></td>
-    </tr>
-    <tr>
-      <td><strong>Database Design</strong></td>
-      <td><img src="https://progress-bar.dev/85/?title=Advanced&width=200&color=4db33d" alt="Database - 85%"/></td>
-    </tr>
-    <tr>
-      <td><strong>DevOps & Cloud</strong></td>
-      <td><img src="https://progress-bar.dev/80/?title=Advanced&width=200&color=ff9900" alt="DevOps - 80%"/></td>
-    </tr>
-    <tr>
-      <td><strong>System Design</strong></td>
-      <td><img src="https://progress-bar.dev/75/?title=Intermediate&width=200&color=blue" alt="System Design - 75%"/></td>
-    </tr>
-  </table>
+  
 </div>
 
 <!-- Random Dev Quote -->
